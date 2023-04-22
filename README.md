@@ -2,8 +2,7 @@
 
 Hi... I am Purushottam (^.^)
 
-This is my very first GitHub Repository.
-I am creating this repo on 11th April 2023.
+This is my very first GitHub Repository. I am creating this repo on 11th April 2023.
 
 In this repo, I will be uploading all the python basic projects in two formats ".ipynb" & ".py"
 
