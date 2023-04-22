@@ -1,8 +1,10 @@
 command = ""
 started = False
 
-while True:
+print("\nThis is a car game ! Type 'help' to know more ...")
 
+while True:
+    
     command = input("> ").lower()
 
     if command == "start":
