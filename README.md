@@ -19,6 +19,7 @@
 💪 So, if you're ready to up your Python game, feel free to connect with me on <a href="https://www.linkedin.com/in/creativepuru/">LinkedIn</a> and never miss out on these valuable resources! 🚀
 
 <a href="https://github.com/creativepuru?tab=repositories">✨ Explore the Repository for more exciting surprises.</a>
+<br> </br>
 
 <a href="https://www.buymeacoffee.com/creativepuru">🤝 SUPPORT ME 👉🏻 BUY ME A COFFEE ☕</a>
 
