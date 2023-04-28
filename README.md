@@ -20,6 +20,6 @@
 
 <a href="https://github.com/creativepuru?tab=repositories">✨ Explore the Repository for more exciting surprises.</a>
 
-<a href="https://www.buymeacoffee.com/creativepuru">🤝 SUPPORT ME 👉🏻 BUY ME A COFFEE</a>
+<a href="https://www.buymeacoffee.com/creativepuru">🤝 SUPPORT ME 👉🏻 BUY ME A COFFEE ☕</a>
 
 </b> </p>
