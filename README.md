@@ -12,6 +12,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=1000&multiline=true&width=700&height=150&lines=📚+This+is+my+very+first+Github+Repository;🚀+I+am+creating+this+Repository+on+April+11+2023;🤓+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙" alt="Typing SVG" />
 </a>
 
+# 📚 Table of Contents :
+- 🔰 ABOUT
+- 👨‍💻 Getting Started
+- 📘 Notebooks
+- 🤝 Contributing
+- 📖 License
+
 # 🔰 ABOUT :
 - ✨ I wanted to share some amazing free resources for learning Python! 🤓👨‍🎓👩‍🎓
 
@@ -39,6 +46,17 @@ cd <Python-Basics>
 jupyter notebook
 ```
 - This will open the `Jupyter notebook interface` in your default `web browser`. From here, you can navigate to the notebooks directory and open any of the notebooks to view the code examples.
+
+
+# 🤝 Contributing :
+If you have any suggestions for improving the code or adding new notebooks, feel free to submit a pull request. We welcome contributions from the community.
+
+- Fork the project
+- Create a new branch (git checkout -b feature/awesome-feature)
+- Make your changes and commit them (git commit -am 'Add an awesome feature')
+- Push to the branch (git push origin feature/awesome-feature)
+- Create a pull request
+
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="How to Reach Me Typing SVG" /> </h1>
 
