@@ -9,20 +9,36 @@
 </p>
 
 <a href="https://github.com/creativepuru">
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=1000&multiline=true&width=500&height=100&lines=📚+This+is+my+very+first+Github+Repository;🚀+I+am+creating+this+Repository+on+April+11+2023" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=1000&multiline=true&width=700&height=150&lines=📚+This+is+my+very+first+Github+Repository;🚀+I+am+creating+this+Repository+on+April+11+2023;🤓+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙" alt="Typing SVG" />
 </a>
 
 # 🔰 ABOUT :
-✨ I wanted to share some amazing free resources for learning Python! 🤓👨‍🎓👩‍🎓
+- ✨ I wanted to share some amazing free resources for learning Python! 🤓👨‍🎓👩‍🎓
 
-✨ If you're interested in learning Python or want to enhance your skills, these resources are perfect for you! 🚀
+- ✨ If you're interested in learning Python or want to enhance your skills, these resources are perfect for you! 🚀
 
-🤓 Whether you're a beginner or an experienced programmer, these resources will help you enhance your skills and take your coding abilities to the next level. 💪
+- 🤓 Whether you're a beginner or an experienced programmer, these resources will help you enhance your skills and take your coding abilities to the next level. 💪
 
-💪 So, if you're ready to up your Python game, feel free to connect with me on <a href="https://www.linkedin.com/in/creativepuru/">LinkedIn</a> and never miss out on these valuable resources! 🚀
+- 💪 So, if you're ready to up your Python game, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/creativepuru "Purushottam Anand on Linkedin") and never miss out on these valuable resources! 🚀
 
-<a href="https://github.com/creativepuru?tab=repositories">✨ Explore the Repository for more exciting surprises.</a>
-<br> </br>
+
+# 👨‍💻 Getting Started :
+- To get started, you'll need to have Python installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
+
+- You'll also need to have `Jupyter` installed. You can install it using `pip` :
+```
+pip install jupyter
+```
+- Once you have `Python` and `Jupyter` installed, you can `clone` this repository:
+```
+git clone https://github.com/creativepuru/Python-Basics.git
+```
+- Then, navigate to the directory where the repository was cloned and start Jupyter by using below commands :
+```
+cd <Python-Basics>
+jupyter notebook
+```
+- This will open the `Jupyter notebook interface` in your default `web browser`. From here, you can navigate to the notebooks directory and open any of the notebooks to view the code examples.
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="How to Reach Me Typing SVG" /> </h1>
 
