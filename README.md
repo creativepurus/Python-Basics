@@ -15,7 +15,7 @@
 # 📚 Table of Contents :
 - 🔰 ABOUT
 - 👨‍💻 Getting Started
-- 📘 Notebooks
+- 📝 Notebooks
 - 🤝 Contributing
 - 📖 License
 
@@ -30,9 +30,8 @@
 
 
 # 👨‍💻 Getting Started :
-- To get started, you'll need to have Python installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
-
-- You'll also need to have `Jupyter` installed. You can install it using `pip` :
+- To get started, you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
+- You'll also need to have `Jupyter` installed. You can install it using `pip` using below commands :
 ```
 pip install jupyter
 ```
