@@ -4,5 +4,5 @@
     },
     "scm.showActionButton": true,
     "scm.providerCountBadge": "hidden",
-    "scm.countBadge": "all"
+    "scm.countBadge": "focused"
 }
