@@ -8,3 +8,4 @@ print(price > 12 or price < 20)
 
 print(not price > 10)
 
+print(not price > 20)
