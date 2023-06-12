@@ -51,3 +51,7 @@ print("\nFORMATTED STRINGS :\n")
 course = "Python for Beginners"
 print(f"Course Name : {course[0:11]} [{course[11:]}]")
 
+first = "Purushottam"
+last = "Anand"
+msg = f'{first} [{last}] is a Programmer'
+print(msg)
