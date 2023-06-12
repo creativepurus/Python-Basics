@@ -22,3 +22,24 @@ print(course)
 
 course = 'Python for "Beginners"'
 print(course)
+
+# Multiline Strings :
+
+print("\nMultiline Strings :\n")
+course = """Python for Beginners
+Python for Intermediate
+Python for Advanced"""
+
+print(course)
+
+course = 'Python for Beginners'
+print(course[0])
+print(course[-1])
+print(course[-2])
+print(course[0:3])
+print(course[:3])
+print(course[0:])
+print(course[:5])
+
+name = "Anand"
+print(name[1:-1])
