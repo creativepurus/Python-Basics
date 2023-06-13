@@ -5,8 +5,13 @@ guess_limit = 3
 while guess_count < guess_limit:
     guess = int(input("Guess a number: "))
     guess_count += 1
+
     if guess == secret_number:
         print("You win!")
         break
+
+    elif guess < secret_number:
+        print("Your guess is too low.")
+
     else:
-        print("")
+        print("Your guess is too high.")
