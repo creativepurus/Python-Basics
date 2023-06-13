@@ -27,22 +27,36 @@
 # ----------------------------------------------------------------
 
 command = ""
+is_Started = False
 
-while command.lower() != "quit":
+while True:
+
     command = input("> ").lower()
 
     if command == "start":
-        print("The car is started")
+        if is_Started:
+            print("The car is already started")
+        else:
+            is_Started = True
+            print("The car is started...")
 
     elif command == "stop":
-        print("The car is stopped")
+        if not is_Started:
+            print("The car is already stopped")
+
+        else:
+            is_Started = False
+            print("The car is stopped...")
 
     elif command == "help":
         print('''
-        start - to start the car
-        stop - to stop the car
-        quit - to exit the program
+start - to start the car
+stop - to stop the car
+quit - to exit the program
         ''')
+
+    elif command == "quit":
+        break
 
     else:
         print("Unknown command")
