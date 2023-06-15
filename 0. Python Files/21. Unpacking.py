@@ -8,7 +8,8 @@ coordinates = (1,2,3)
 # --> Simple way to do the above task is 'Unpacking' which is specially in Python
 
 x, y, z = coordinates
-print(x, y, z)
+print(x, y)
+print(z)
 
 # --> Unpacking also works with List & Sets along with Tuples
 
