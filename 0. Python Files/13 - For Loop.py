@@ -24,7 +24,11 @@
 # print("\nUsing For Loop to calculate the price : ")
 # print(f"Total Price : {total}")
 
-for x in range(4):
-    for y in range(3):
-        print(f"X: {x} Y: {y}")
-        
+# for x in range(4):
+#     for y in range(3):
+#         print(f"X: {x} Y: {y}")
+
+numbers = [5,2,5,2,2]
+
+for num in numbers:
+    print(num * '*')
