@@ -12,6 +12,6 @@ while i < len(numbers):
     i += 1
 
 print("Using Range function")
-for i in range(100):
+for i in range(10):
     print(i)
-    
+
