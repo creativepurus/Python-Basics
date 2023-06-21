@@ -44,13 +44,16 @@ jupyter notebook
 
 # 🔰 Description
 ### The notebooks in this repository cover the following topics:
-- Variables and data types
-- Control structures (if/else statements, loops)
-- Lists, tuples, and dictionaries
-- Functions
-- Classes and objects
-- File input/output
-- Exception Handling
+- Variables
+- Data Types
+- Lists
+- Tuples
+- Dictionaries
+- While Loop
+- If Statement
+- Else Statement
+- Comprehension
+
 ### Each notebook contains code examples and explanations of the concepts being covered. I encourage you to experiment with the code and modify it to see what happens 🤓
 
 
