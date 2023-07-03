@@ -16,9 +16,9 @@
 - 🔰 Description
 - 📣 Feedback & Contributions 🤝
 - 📲 How to reach me 💻
-- 🚀 Let's learn and grow together!
 - 📖 License
-- 🤝 SUPPORT ME 👉🏻 Buy Me a Coffee ☕
+- 💡 SURPRISE
+- 🤝 SUPPORT ME
 
 # 🔰 ABOUT 
 - ✨ I wanted to share some amazing free resources for learning Python! 🤓👨‍🎓👩‍🎓
@@ -87,6 +87,8 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 <br> </br>
 
 ## 📚 Visit My Next Repository 👉🏻 [Python Advanced](https://github.com/creativepuru/Python-Advanced) to excel your Python Journey !
+
+<br> </br>
 
 ## 🤝 SUPPORT ME 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 
