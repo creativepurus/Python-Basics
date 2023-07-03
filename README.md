@@ -87,7 +87,7 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 <br> </br>
 
 # SURPRISE
-### 📚 Visit My Next Repository 👉🏻 [Python Advanced](https://github.com/creativepuru/Python-Advanced) to excel your Python Journey !
+### 📚 Visit My Next Repository 👉🏻 [Python Advanced](https://github.com/creativepuru/Python-Advanced) to continue and excel your Python Journey !
 
 <br> </br>
 
