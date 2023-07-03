@@ -17,7 +17,7 @@
 - 📣 Feedback & Contributions 🤝
 - 📲 How to reach me 💻
 - 📖 License
-- 💡 SURPRISE
+- 💡 [SURPRISE](#surprise)
 - 🤝 SUPPORT ME
 
 # 🔰 ABOUT 
@@ -86,7 +86,8 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 - See [LICENSE](https://github.com/creativepuru/Python-Basics/blob/main/LICENSE.txt) for more information.
 <br> </br>
 
-## 📚 Visit My Next Repository 👉🏻 [Python Advanced](https://github.com/creativepuru/Python-Advanced) to excel your Python Journey !
+# SURPRISE
+### 📚 Visit My Next Repository 👉🏻 [Python Advanced](https://github.com/creativepuru/Python-Advanced) to excel your Python Journey !
 
 <br> </br>
 
